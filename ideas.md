@@ -19,3 +19,7 @@ AI assisted performance tracking for athletes, with the goal to lay out a roadma
 ## Idea 5
 
 Swipe-based book lending platform
+
+## Idea 6
+
+Application for students to check various things and to connect them to existing tools (myTimeTable, Printing site, Paynet, ...)
