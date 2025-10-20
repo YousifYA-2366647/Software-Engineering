@@ -23,3 +23,7 @@ Swipe-based book lending platform
 ## Idea 6
 
 Application for students to check various things and to connect them to existing tools (myTimeTable, Printing site, Paynet, ...)
+
+## Idea 7
+
+Enviroment for collecting learning data from students to help develepment of learning pattern recognition AI
