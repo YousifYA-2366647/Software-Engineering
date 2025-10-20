@@ -37,9 +37,9 @@ Diet planner ai based on inputs
 
 ## Idea 9
 
-route planner that shows all transport options/combinations and costs and recommendations. 
-for example walk 5 minutes to take the bus that takes you to the car renting place that so you can drive to your favorite place in amsterdam. (cheapest option) 
-take a taxi (most expensive option) 
+route planner that shows all transport options/combinations and costs and recommendations.
+for example walk 5 minutes to take the bus that takes you to the car renting place that so you can drive to your favorite place in amsterdam. (cheapest option)
+take a taxi (most expensive option)
 take a bus to destination (recommended option)
 
 ## Idea 10
